@@ -6,8 +6,7 @@ This project showcases my skills, projects, and journey as a web developer.
 ---
 
 ## 🚀 Live Demo
-👉 https://your-username.github.io/your-repo-name
-
+👉 https://praful77jha.github.io/
 ---
 
 ## 🧑‍💻 About
@@ -69,8 +68,8 @@ script.js
 ---
 
 ## 🔗 Links
-- GitHub: https://github.com/your-username  
-- Live Site: https://your-username.github.io/your-repo-name  
+- GitHub: https://github.com/Praful77Jha  
+- Live Site: https://praful77jha.github.io/ 
 
 ---
 
